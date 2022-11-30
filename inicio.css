@@ -1,3 +1,21 @@
 html{
     font-family: Arial, Helvetica, sans-serif;
 }
+div{
+    display: flex;
+    align-items: center;
+    justify-content:space-around;
+    flex-direction:row;
+}
+#intro{
+    display: flex;
+    align-items: center;
+    justify-content:space-around;
+    flex-direction:row;
+}
+#sobre{
+    display: flex;
+    align-items: center;
+    justify-content:space-around;
+    flex-direction:row;
+}
