@@ -1,3 +1,32 @@
 html{
     font-family: Arial, Helvetica, sans-serif;
 }
+h1{
+    margin:80px;
+    display: flex;
+    align-items: center;
+    justify-content:space-around;
+    flex-direction:row;
+}
+div{
+    display: flex;
+    align-items: center;
+    justify-content:space-around;
+    flex-direction:row;
+}
+#imagens{
+    display: flex;
+    align-items: center;
+    justify-content:space-around;
+    flex-direction:row;
+    margin:80px;
+}
+h3 {
+    display: flex;
+    align-items: center;
+    justify-content:space-between;
+    flex-direction: column;
+    margin-bottom: 80px;
+    text-align: center;
+    text-decoration:none
+}
