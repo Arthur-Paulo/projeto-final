@@ -46,3 +46,24 @@ a{
     font-weight: bold;
     text-decoration: none;
 }
+footer{
+    width: 100%;
+    height: 80px;
+    background-color: #c83cff;
+    color: whitesmoke;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    flex-direction:row;
+    padding:8px;
+}
+.creditos{
+
+    display: flex;
+    align-items: center;
+    justify-content:space-between;
+    flex-direction: column;
+    margin: 50px;
+    text-align: center;
+ 
+}
