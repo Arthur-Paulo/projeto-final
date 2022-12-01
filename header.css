@@ -67,14 +67,3 @@ footer{
     text-align: center;
  
 }
-.c640 {
-    display: block;
-}
-
-@media (max-width: 640px) {
-
-.c640 {
-display: none;
-}
-
-}
